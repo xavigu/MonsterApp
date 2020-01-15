@@ -5,7 +5,3 @@
     grid-template-columns: 1fr 1fr 1fr 1fr; /*Grid en 4 secciones iguales*/
     grid-gap: 20px; /* espacio de 20 pixeles entre grids*/
   }
-
- .card{
-    background-color: lightgrey;
- } 
