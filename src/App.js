@@ -19,6 +19,12 @@ class App extends Component {
           this.setState({monsters: users})
         })
  }
+
+ /* Metodo (handleChange) que apunta a la arrow function y 
+  en el que this su contexto es el class Component*/
+ handleChange = (e) => {
+  this.setState({searchField: e.target.value})
+ }
  
   render() {
     const { monsters, searchField } = this.state;
@@ -31,7 +37,7 @@ class App extends Component {
                onChange={e => this.setState({searchField: e.target.value})} /> */}
         <SearchBox 
                 placeholder='Search monsters...'
-                handleChange = {e => this.setState({searchField: e.target.value})}/>       
+                handleChange = {this.handleChange}/> { /* Se puede escribir asi porque se le esta pasando el callback entero y hace referencia a toda la función incluido el (e)*/ }    
         <CardList monsters={filteredMonsters} />
       </div>
     );
