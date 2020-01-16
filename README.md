@@ -69,5 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Info deploy in github pages
 `npm add gh-pages`
+
  Add in package.json a homepage and 2 scripts (predeploy y deploy)
+ 
 `npm run deploy`
