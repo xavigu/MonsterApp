@@ -35,6 +35,7 @@ class App extends Component {
         {/* <input type='search' 
                placeholder='Search monsters...' 
                onChange={e => this.setState({searchField: e.target.value})} /> */}
+        <h1>Monsters Rolodex</h1>
         <SearchBox 
                 placeholder='Search monsters...'
                 handleChange = {this.handleChange}/> { /* Se puede escribir asi porque se le esta pasando el callback entero y hace referencia a toda la función incluido el (e)*/ }    
