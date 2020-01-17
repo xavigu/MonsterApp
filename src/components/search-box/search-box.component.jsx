@@ -9,10 +9,3 @@ export const SearchBox = ({placeholder, handleChange}) => {
            onChange={handleChange} />
   );
 };
-
-
-//Input previo en el App.js
-// <input className = 'search'
-// type='search' 
-// placeholder= {placeholder}
-// onChange={e => this.setState({searchField: e.target.value})} />
