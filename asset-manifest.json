@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MonsterApp/static/css/main.f9b989fe.chunk.css",
-    "main.js": "/MonsterApp/static/js/main.c7fb6023.chunk.js",
-    "main.js.map": "/MonsterApp/static/js/main.c7fb6023.chunk.js.map",
+    "main.js": "/MonsterApp/static/js/main.1f50ac70.chunk.js",
+    "main.js.map": "/MonsterApp/static/js/main.1f50ac70.chunk.js.map",
     "runtime-main.js": "/MonsterApp/static/js/runtime-main.764ba9f5.js",
     "runtime-main.js.map": "/MonsterApp/static/js/runtime-main.764ba9f5.js.map",
     "static/js/2.02990d15.chunk.js": "/MonsterApp/static/js/2.02990d15.chunk.js",
     "static/js/2.02990d15.chunk.js.map": "/MonsterApp/static/js/2.02990d15.chunk.js.map",
     "index.html": "/MonsterApp/index.html",
-    "precache-manifest.6b3575305a1ea31c4c28e8684af8a64d.js": "/MonsterApp/precache-manifest.6b3575305a1ea31c4c28e8684af8a64d.js",
+    "precache-manifest.bd17fd1e7bf46d69f06375a8348be3a2.js": "/MonsterApp/precache-manifest.bd17fd1e7bf46d69f06375a8348be3a2.js",
     "service-worker.js": "/MonsterApp/service-worker.js",
     "static/css/main.f9b989fe.chunk.css.map": "/MonsterApp/static/css/main.f9b989fe.chunk.css.map",
     "static/js/2.02990d15.chunk.js.LICENSE": "/MonsterApp/static/js/2.02990d15.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.764ba9f5.js",
     "static/js/2.02990d15.chunk.js",
     "static/css/main.f9b989fe.chunk.css",
-    "static/js/main.c7fb6023.chunk.js"
+    "static/js/main.1f50ac70.chunk.js"
   ]
 }
